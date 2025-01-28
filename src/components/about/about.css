@@ -111,6 +111,12 @@
   transition: 0.5s;
 }
 
+@media (max-width: 1310px) {
+  .about-section {
+    flex-direction: column;
+  }
+}
+
 @media (max-width: 768px) {
   .about {
     gap: 80px;

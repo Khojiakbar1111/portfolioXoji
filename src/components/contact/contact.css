@@ -119,6 +119,18 @@
   background: linear-gradient(270deg, #b415ff -5.09%, #df8908 100%);
 }
 
+@media (max-width: 1130px) {
+  .contact {
+    margin: 0;
+    gap: 10px;
+  }
+
+  .contact-section {
+    flex-direction: column;
+    gap: 80px;
+  }
+}
+
 @media (max-width: 768px) {
   .contact {
     gap: 50px;

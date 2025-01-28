@@ -40,6 +40,9 @@ function About() {
               <p>Tailwind</p> <hr style={{ width: "34%" }} />
             </div>
             <div className="about-skill">
+              <p>SCSS</p> <hr style={{ width: "34%" }} />
+            </div>
+            <div className="about-skill">
               <p>JavaSript</p> <hr style={{ width: "59%" }} />
             </div>
             <div className="about-skill">

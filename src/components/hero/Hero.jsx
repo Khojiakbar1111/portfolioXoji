@@ -6,7 +6,7 @@ function Hero() {
   return (
     <div className="hero" id="home">
       <div className="hero-img">
-        <img src={profileImg} alt="" />
+        <img src={profileImg} alt="MyPicture" />
       </div>
       <h1>
         {" "}

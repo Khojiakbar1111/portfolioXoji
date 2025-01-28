@@ -66,6 +66,12 @@ nav {
   display: none;
 }
 
+@media (max-width: 1310px) {
+  .nav-connect {
+    display: none;
+  }
+}
+
 @media (max-width: 768px) {
   nav {
     margin: 20px 50px;
